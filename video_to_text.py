@@ -67,4 +67,4 @@ def save_to_word(video_path, periods_per_chunk,save_path):
     return word_path
 
 if __name__ == '__main__':
-    save_to_word(r"C:\Users\Administrator\Desktop\B站视频\temp_audio_BV1zREQzGETK.mp3",5,r"C:\Users\Administrator\Desktop\B站视频")
+    pass
