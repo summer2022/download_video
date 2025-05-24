@@ -189,8 +189,4 @@ def get_bili_audio_from_urls(bvid,path):
     return audio_path
 
 if __name__ == '__main__':
-    # bvid = "BV1QwEtz8EYg"
-    # au_url,vi_url = bili_auvidel_url_list(bvid)
-    # print(au_url)
-    # print(vi_url)
-    audio_path  = get_bili_audio_from_urls("BV1zREQzGETK",r"C:\Users\Administrator\Desktop\B站视频")
+    pass
